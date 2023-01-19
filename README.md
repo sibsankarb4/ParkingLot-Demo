@@ -7,7 +7,9 @@
 
 # ParkingLot-Demo
 Step1: Clone ParkingLot-Demo Project.
+
 Step2: Go to ParkingLot-Demo\src\main\resources and import parkinglot.sql in your DB.
+
 Steps3. Import project in your IDE and Run.
 
                 ############################################### API-List ####################################################

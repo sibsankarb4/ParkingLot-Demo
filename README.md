@@ -1,9 +1,8 @@
 
-#Technology Used : 
-        Java8, Spring Boot, Maven, JPA, Hibernate, Junit, SQL
+#Technology Used : Java8, Spring Boot, Maven, JPA, Hibernate, Junit, SQL
         
         
-        #RDBMS Used : MySQL
+#RDBMS Used : MySQL
 
 
 # ParkingLot-Demo
